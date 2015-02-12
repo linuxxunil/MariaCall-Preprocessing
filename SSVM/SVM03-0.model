@@ -1,0 +1,9 @@
+svm_type one_class
+kernel_type sigmoid
+gamma 1.0
+coef0 0.0
+nr_class 2
+total_sv 1
+rho 0.06370266526937485
+SV
+0.8999999999999999 1:0.20839487782617416 2:-0.16574340082385675 
